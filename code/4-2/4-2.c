@@ -5,7 +5,7 @@ int sum(int arr[], int n){
     for(int i=0;i<n;i++){
         s += arr[i];
     }
-    return sum;
+    return s;
 }
 double average(int arr[], int n){
     double a = 0;
