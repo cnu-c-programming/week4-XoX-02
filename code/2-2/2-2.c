@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-    const char* var0 - "-300";
+    const char* var0 = "-300";
 
     int var1 = atoi(var0);
     float var2 = atof(var0);
